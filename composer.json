@@ -1,0 +1,16 @@
+{
+    "name": "poi/pehape",
+    "description": "yg suka hina pehape sini gelud",
+    "autoload": {
+        "psr-4": {
+            "Poi\\Pehape\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "makloheker",
+            "email": "ajulisaputra@gmail.com"
+        }
+    ],
+    "require": {}
+}
